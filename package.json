@@ -1,0 +1,15 @@
+{
+  "name": "ab-test-confidence",
+  "version": "1.0.0",
+  "description": "Stats for simple AB testing",
+  "main": "src/main.js",
+  "devDependencies": {
+    "mocha": "^2.2.4",
+    "chai": "^2.1.2"
+  },
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "matt.chadburn@ft.com",
+  "license": "ISC"
+}
