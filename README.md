@@ -1,5 +1,5 @@
 
-The statistical functions behind the A/B reporting.
+The statistical functions behind the A/B test reporting on Next.
 
 ## Usage
 
