@@ -1,5 +1,5 @@
 
-The statistical functions behind the A/B reporting.
+The statistical functions behind A/B test reporting. Isomorphic.
 
 ## Usage
 

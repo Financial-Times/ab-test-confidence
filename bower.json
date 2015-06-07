@@ -1,0 +1,10 @@
+{
+  "name": "ab-test-confidence",
+  "version": "1.0.0",
+  "homepage": "https://github.com/Financial-Times/ab-test-confidence",
+  "authors": [
+    "Matt Chadburn <matt.chadburn@ft.com>"
+  ],
+  "main": "src/main.js",
+  "license": "MIT"
+}
