@@ -1,5 +1,5 @@
 
-The statistical functions behind A/B test reporting. Isomorphic.
+The statistical functions behind the A/B test reporting on Next. Isomorphic.
 
 ## Usage
 
