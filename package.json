@@ -4,12 +4,19 @@
   "description": "Stats for simple AB testing",
   "main": "src/main.js",
   "devDependencies": {
-    "mocha": "^2.2.4",
-    "chai": "^2.1.2"
+    "chai": "^2.1.2",
+    "karma": "^0.12.36",
+    "karma-chai": "^0.1.0",
+    "karma-chrome-launcher": "^0.1.12",
+    "karma-mocha": "^0.1.10",
+    "mocha": "^2.2.5"
   },
   "scripts": {
     "test": "mocha"
   },
   "author": "matt.chadburn@ft.com",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "browserify": "^10.2.4"
+  }
 }
