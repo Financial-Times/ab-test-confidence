@@ -1,8 +1,8 @@
 .PHONY: test
 
-test: server client lint
+test: server client verify
 
-lint:
+verify:
 	@obt verify
 
 server:
