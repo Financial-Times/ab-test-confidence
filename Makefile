@@ -1,6 +1,9 @@
 .PHONY: test
 
-test: server client
+test: server client lint
+
+lint:
+	@obt verify
 
 server:
 	@mocha --verbose --reporter spec ./tests

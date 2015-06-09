@@ -9,7 +9,8 @@
     "karma-chai": "^0.1.0",
     "karma-chrome-launcher": "^0.1.12",
     "karma-mocha": "^0.1.10",
-    "mocha": "^2.2.5"
+    "mocha": "^2.2.5",
+    "origami-build-tools": "^2.13.0"
   },
   "scripts": {
     "test": "mocha"
